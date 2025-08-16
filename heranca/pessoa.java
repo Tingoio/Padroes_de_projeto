@@ -1,3 +1,4 @@
+package heranca;
 public class pessoa {
 
     public String cpf;

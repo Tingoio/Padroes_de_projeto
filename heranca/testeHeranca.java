@@ -1,3 +1,4 @@
+package heranca;
 public class testeHeranca {
     public static void main(String[] args) {
 

@@ -1,3 +1,4 @@
+package heranca;
 public class professor extends pessoa {
     
     public String matricula;
