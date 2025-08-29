@@ -18,5 +18,7 @@ public class consumidor {
         paint.desenhar(q);
         System.out.println("\n");
         paint.desenhar(t);
+
+        
     }
 }
