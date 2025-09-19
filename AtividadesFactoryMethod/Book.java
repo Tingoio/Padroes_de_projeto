@@ -13,6 +13,6 @@ public class Book extends LibraryItem {
 
     @Override
     public String toString() {
-        return "Book [genre=" + genre + ", title=" + title + ", autor=" + autor + ", ano=" + ano + ", toString()=" + "]";
+        return "Book [genre=" + genre + ", title=" + title + ", autor=" + author + ", ano=" + ano + ", toString()=" + "]";
     }
 }

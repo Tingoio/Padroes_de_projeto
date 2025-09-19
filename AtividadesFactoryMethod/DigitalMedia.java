@@ -8,7 +8,7 @@ public class DigitalMedia extends LibraryItem {
 
     @Override
     public String toString() {
-        return "DigitalMedia [fileFormat=" + fileFormat + ", title=" + title + ", autor=" + autor + ", ano=" + ano
+        return "DigitalMedia [fileFormat=" + fileFormat + ", title=" + title + ", autor=" + author + ", ano=" + ano
                 + "]";
     }
 }

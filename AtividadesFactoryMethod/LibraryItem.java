@@ -1,7 +1,7 @@
 public abstract class LibraryItem implements Borrowable {
     
     String title;
-    String autor;
+    String author;
     int ano;
 
     @Override
